@@ -1,0 +1,4 @@
+default:
+  login:
+    prefix: /login
+    time: 3601

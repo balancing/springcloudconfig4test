@@ -1,4 +1,4 @@
 default:
   login:
-    prefix: /login
+    prefix: userinfo/desc
     time: 3601

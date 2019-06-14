@@ -1,5 +1,6 @@
 default:
   nologin:
     prefix: /sso/login, /endpoint/.*
+  login:
     time: 3601
     
